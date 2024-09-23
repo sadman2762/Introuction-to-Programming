@@ -1,0 +1,5 @@
+BMW:Mountain:2005:80000
+Csepel:Road:2007:75000
+Sprint:Mountain:2012:90000
+Cross:Touring:2015:145000
+Neuzer:Road:2017:75000

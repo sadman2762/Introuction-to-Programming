@@ -1,0 +1,6 @@
+Laptop;Dell;2022;1200
+Smartphone;Samsung;2021;800
+Tablet;Samsung;2023;600
+Smartwatch;Sony;2022;250
+Headphones;Bose;2021;300
+Camera;Sony;2020;950

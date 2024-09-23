@@ -1,0 +1,6 @@
+shirt;Nike;green;50
+jacket;Adidas;yellow;100
+shoes;Puma;red;80
+shirt;Puma;black;30
+hat;Adidas;white;20
+hat;Nike;blue;15

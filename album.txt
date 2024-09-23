@@ -1,0 +1,7 @@
+The Dark Side of the Moon;Pink Floyd;1973;26
+Abbey Road;The Beatles;1969;23
+The Wall;Pink Floyd;1979;23
+Back in Black;AC/DC;1980;24
+Highway to Hell;AC/DC;1979;20
+Thriller;Michael Jackson;1982;30.00
+For Those About to Rock We Salute You;AC/DC;1981;24

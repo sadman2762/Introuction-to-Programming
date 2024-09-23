@@ -1,0 +1,7 @@
+Lord of the Rings;J.R.R. Tolkien;1954;30
+The Hobbit;J.R.R. Tolkien;1937;19
+Pride and Prejudice;Jane Austen;1813;13
+Sense and Sensibility;Jane Austen;1811;15
+Emma;Jane Austen;1815;16
+Crime and Punishment;Fyodor Dostoevsky;1866;14
+Brave New World;Aldous Huxley;1932;22
